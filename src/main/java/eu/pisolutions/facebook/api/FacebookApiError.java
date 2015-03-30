@@ -64,4 +64,9 @@ public final class FacebookApiError implements Serializable {
     public void setErrorUserMessage(String errorUserMessage) {
         this.errorUserMessage = errorUserMessage;
     }
+
+    @Override
+    public String toString() {
+        return "Facebook API error (code: " + code + ", type: " + type + ", message: " + message + ')';
+    }
 }
