@@ -15,7 +15,7 @@
     </parent>
 
     <artifactId>eu.pisolutions.facebook</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <name>eu.pisolutions.facebook</name>
     <description>Facebook API client library.</description>
     <url>https://github.com/lpireyn/${project.artifactId}</url>
