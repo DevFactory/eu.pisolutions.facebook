@@ -3,7 +3,7 @@ package eu.pisolutions.facebook.api;
 import java.io.IOException;
 
 /**
- * {@link java.io.IOException} thrown by a {@link eu.pisolutions.facebook.api.FacebookApiClient}.
+ * {@link IOException} thrown by a {@link FacebookApiClient}.
  *
  * @author Laurent Pireyn
  */

@@ -3,7 +3,7 @@ package eu.pisolutions.facebook.api.security;
 import static java.util.Objects.requireNonNull;
 
 /**
- * Application {@link eu.pisolutions.facebook.api.security.FacebookApiCredentials}.
+ * Application {@link FacebookApiCredentials}.
  *
  * @author Laurent Pireyn
  */

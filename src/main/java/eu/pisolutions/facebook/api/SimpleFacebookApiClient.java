@@ -17,7 +17,7 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import eu.pisolutions.facebook.api.security.FacebookApiApplicationCredentials;
 
 /**
- * {@link eu.pisolutions.facebook.api.FacebookApiClient} that uses a {@link eu.pisolutions.facebook.api.security.FacebookApiApplicationCredentials}.
+ * {@link FacebookApiClient} that uses a {@link FacebookApiApplicationCredentials}.
  *
  * @author Laurent Pireyn
  */

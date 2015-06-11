@@ -3,7 +3,7 @@ package eu.pisolutions.facebook.api;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * Mix-in for {@link eu.pisolutions.facebook.api.FacebookApiError}.
+ * Mix-in for {@link FacebookApiError}.
  *
  * @author Laurent Pireyn
  */
